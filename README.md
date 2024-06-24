@@ -1,7 +1,7 @@
-![photo_2024-06-24_02-00-23 (2)](https://github.com/ramy23149/knisty-app/assets/151165198/f6268302-4c29-424c-b1fd-bb0b60e92f3a)# كنستي (My Church) Application
+# كنستي (My Church) Application
 
 ## Overview
-"كنستي" is a Flutter application designed to organize the booking of halls and events within a church community.
+"كنستي" is a Flutter application designed to organize the booking of halls and events within a church community.##
 
 ## User Roles and Permissions
 
