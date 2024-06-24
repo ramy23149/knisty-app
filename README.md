@@ -39,19 +39,19 @@
 ## - Screenshots
 (Add relevant screenshots here for each point)
 
-1. **Splash Screen:**
+## 1. **Splash Screen:**
    - Screenshot showing the splash screen that appears when the application launches:
      
      
 ![photo_2024-06-24_02-00-27](https://github.com/ramy23149/knisty-app/assets/151165198/c95cfd6f-8ca4-46ef-a8b5-ca3f1aa088d4)
 
-2. **Login Screen:**
+## 2. **Login Screen:**
    - Screenshot showing the login screen where users can enter their credentials:
   
      
 ![photo_2024-06-24_02-00-26](https://github.com/ramy23149/knisty-app/assets/151165198/a4f271ab-a688-40c4-8d59-2c74b7261576)
 
-3. **Admin Dashboard:**
+## 3. **Admin Dashboard:**
    - Screenshots of request management, user management, and messaging features:
   
      
@@ -87,7 +87,7 @@
 
 ![photo_2024-06-24_02-00-24 (2)](https://github.com/ramy23149/knisty-app/assets/151165198/151c995e-3b8a-4a25-a989-04ffb93cdde2)
 
-4. **Moderator Interface:**
+## 4. **Moderator Interface:**
    
    
 ![photo_2024-06-24_02-05-16](https://github.com/ramy23149/knisty-app/assets/151165198/72ab31bd-a340-46af-aae3-3cf102f1cf18)
@@ -101,14 +101,14 @@
 ![photo_2024-06-24_02-00-23](https://github.com/ramy23149/knisty-app/assets/151165198/d928d376-1cba-438c-959e-15a7f2d8ecb4)
 ![photo_2024-06-24_02-00-24](https://github.com/ramy23149/knisty-app/assets/151165198/6305be95-5efe-47d2-a857-f10ec1aebc2e)
 
-5. **User Interface:**
+## 5. **User Interface:**
 
    ### - Screenshots displaying the booking schedule and timeline views:
    
 ![photo_2024-06-24_02-05-18 (2)](https://github.com/ramy23149/knisty-app/assets/151165198/2c5ab2d4-9474-400e-9552-39946b4ab6e5)
 ![photo_2024-06-24_02-00-19](https://github.com/ramy23149/knisty-app/assets/151165198/1f13c275-7aab-4d03-97a2-beb35de0dee3)
 
-6.**Timeline:**
+## 6.**Timeline:**
    ### - Screenshots showing the timeline with booking schedules:
    
    ![photo_2024-06-24_02-00-25 (2)](https://github.com/ramy23149/knisty-app/assets/151165198/fba5af19-f273-4710-8646-52d696072e7d)
@@ -117,7 +117,7 @@
    
  ![photo_2024-06-24_02-00-25](https://github.com/ramy23149/knisty-app/assets/151165198/0105f0f0-b595-4f11-b9d7-9dba6e826f96)
 
-7. **Localization and Dark Mode:**
+## 7. **Localization and Dark Mode:**
    - Screenshots showing the application in Arabic and English:
      
 ![photo_2024-06-24_02-00-28](https://github.com/ramy23149/knisty-app/assets/151165198/11d3fec1-0837-425e-aa69-ba9cd5c28d76)
