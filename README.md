@@ -1,7 +1,7 @@
 # كنستي (My Church) Application
 
 ## Overview
-"كنستي" is a Flutter application designed to organize the booking of halls and events within a church community.##
+"كنستي" is a Flutter application designed to organize the booking of halls and events within a church community.
 
 ## User Roles and Permissions
 
