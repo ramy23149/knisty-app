@@ -36,7 +36,7 @@
 - **Localization:** Supports both Arabic and English languages.
 - **Dark Mode:** Supports dark mode for better user experience.
 
-## Screenshots
+## - Screenshots
 (Add relevant screenshots here for each point)
 
 1. **Splash Screen:**
@@ -67,7 +67,7 @@
 
 ![photo_2024-06-24_02-09-58](https://github.com/ramy23149/knisty-app/assets/151165198/cb3d0b16-6ce0-4fdc-8f1f-c29357070336)
 
-### Avilable responses for the admin:
+### - Avilable responses for the admin:
 
 ![photo_2024-06-24_02-00-21](https://github.com/ramy23149/knisty-app/assets/151165198/94c11e49-6a43-4474-91cc-2e566ae4d732)
 
@@ -118,7 +118,7 @@
  ![photo_2024-06-24_02-00-25](https://github.com/ramy23149/knisty-app/assets/151165198/0105f0f0-b595-4f11-b9d7-9dba6e826f96)
 
 7. **Localization and Dark Mode:**
-   - Screenshots showing the application in Arabic and English.
-   - Screenshots showing the application in dark mode.
+   - Screenshots showing the application in Arabic and English:
+     
 ![photo_2024-06-24_02-00-28](https://github.com/ramy23149/knisty-app/assets/151165198/11d3fec1-0837-425e-aa69-ba9cd5c28d76)
 
