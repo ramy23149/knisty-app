@@ -25,7 +25,7 @@
 
 ## Common Features for All Roles
 - View the timeline and booking schedules in a well-organized manner.
-  - Choose between monthly, weekly, or daily views.
+- Choose between monthly, weekly, or daily views.
 - Access messages sent by the admin (only the admin can send messages).
 
 ## Tools and Features Used in the Application
